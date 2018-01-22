@@ -1,4 +1,15 @@
+body{
+  background-image:url("https://c1.staticflickr.com/6/5173/5436446554_9244788c36_b.jpg");
+}
 p {
-  color: red;
-  text-align: center;
+  font-family:arial;
+  color:white;
+}
+h1{
+  font-family:impact;
+  color:white;
+}
+h2{
+  font-family:Century Gothic;
+  color:white;
 }
