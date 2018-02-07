@@ -30,7 +30,7 @@ h3 {
  background-color:white;
  border-radius:10px;
 }
-h4,h5,h6{
+h4, h5, h6{
  font-family:arial;
  color:white;
 }
@@ -48,4 +48,5 @@ button{
 p, h1, h2, h3, h4, h5, h6, blockquote, button{
   margin-right:10%;
   margin-left:10%; 
+  padding:10px;
 }
