@@ -4,6 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 body{
   background-image:url("https://c1.staticflickr.com/6/5173/5436446554_9244788c36_b.jpg");
+  background-attachment: fixed;
 }
 p {
   font-family:arial;
