@@ -3,7 +3,9 @@ body{
 }
 p {
   font-family:arial;
-  color:white;
+  color:black;
+  background-color:white;
+  border-radius:10px;
 }
 h1{
   font-family:impact;
@@ -11,7 +13,9 @@ h1{
 }
 h2{
   font-family:Century Gothic;
-  color:white;
+  color:black;
+  background-color:white;
+  border-radius:10px;
 }
 blockquote{
   font-family:verdana;
