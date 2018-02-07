@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 body{
   background-image:url("https://c1.staticflickr.com/6/5173/5436446554_9244788c36_b.jpg");
 }
@@ -8,16 +12,34 @@ p {
   border-radius:10px;
 }
 h1{
-  font-family:impact;
+  font-family: 'Audiowide', cursive;
   color:white;
+  text-align:center;
 }
 h2{
-  font-family:Century Gothic;
+  font-family: 'Comfortaa', cursive;
   color:black;
   background-color:white;
   border-radius:10px;
 }
+h3 {
+ font-family: 'Megrim', cursive;
+ color:black;
+ background-color:white;
+ border-radius:10px;
+}
+h4,h5,h6{
+ font-family:arial;
+ color:white;
+}
 blockquote{
-  font-family:verdana;
-  color:white;
+  font-family: 'Ubuntu', sans-serif;;
+  color:black;
+  background-color:white;
+  border-radius:10px;
+}
+button{
+ border-radius:10px;
+ background-color:#486491;
+ font-family:arial;
 }
