@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa');
 @import url('https://fonts.googleapis.com/css?family=Megrim');
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Nova+Flat');
 body{
   background-image:url("https://c1.staticflickr.com/6/5173/5436446554_9244788c36_b.jpg");
   background-attachment: fixed;
@@ -31,7 +32,7 @@ h3 {
  background-color:white;
  border-radius:10px;
 }
-h4, h5, h6{
+h4,h5,h6{
  font-family:arial;
  color:white;
 }
@@ -50,4 +51,19 @@ p, h1, h2, h3, h4, h5, h6, blockquote, button{
   margin-right:10%;
   margin-left:10%; 
   padding:10px;
+}
+footer{
+  font-family:arial;
+  background-color:white;
+  padding:10px;
+  margin:10%;
+  border-radius:10px;
+}
+a{
+  color:black;
+}
+header{
+  color:white;
+  text-align:center;
+  font-family: 'Nova Flat', cursive;
 }
