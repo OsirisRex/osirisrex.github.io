@@ -63,7 +63,14 @@ a{
   color:black;
 }
 header{
-  color:white;
   text-align:center;
   font-family: 'Nova Flat', cursive;
 }
+.nav {
+  color:white;
+}
+
+.nav:hover{
+  color:black;
+  background-color:white;
+  border-radius:5px;
