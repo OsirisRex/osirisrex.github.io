@@ -62,3 +62,11 @@ h2{
 img{
   border-radius: 10px;
 }
+button{
+  background-color: red;
+  border: 2px solid red;
+  padding:5px;
+}
+button:hover{
+  background-color:orange;
+}
