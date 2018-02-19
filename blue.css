@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Nova+Square|Orbitron');
 body{
-  background-color: black;
+  background-color:grey;
+  border:0px;
 }
 td{
   color:white;
@@ -21,12 +22,27 @@ h1{
   font-size:75px;
   background-image: url('Images/space.jpg');
   color:white;
-  width:100%;
   padding-top:100px;
   padding-bottom:100px;
-  margin:0px;
+  margin-right: 250px;
+  margin-left: 250px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border-radius:10px;
 }
 .options{
   margin-left: 15px;
   margin-right: 15px;
+}
+p{
+  font-family: arial;
+  background-color:white;
+  border-radius:10px;
+  padding: 10px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+table{
+  margin-left: 500px;
+  margin-right: 500px;
 }
