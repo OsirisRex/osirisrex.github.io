@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Nova+Square|Orbitron');
 body{
-  background-color:grey;
+  background-color:#24272d;
   border:0px;
 }
 td{
@@ -28,7 +28,8 @@ h1{
   margin-left: 250px;
   margin-top: 25px;
   margin-bottom: 25px;
-  border-radius:10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .options{
   margin-left: 15px;
@@ -45,4 +46,19 @@ p{
 table{
   margin-left: 250px;
   margin-right: 257px;
+}
+.menuLink{
+  color:white;
+  text-decoration: none;
+}
+h2{
+  font-family: 'Nova Square';
+  margin-left: 250px;
+  margin-right: 250px;
+  background-color:white;
+  border-radius:10px;
+  padding:5px;
+}
+img{
+  border-radius: 10px;
 }
