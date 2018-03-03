@@ -33,3 +33,24 @@ p {
   margin-left: 25%;
   margin-right: 25%;
 }
+.tabBar {
+  margin-left: 42%;
+  margin-right: 42%;
+}
+h3 {
+  text-align: center;
+}
+.w3-card {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 10px;
+}
+.statusInProgress {
+  color: #ffad20;
+}
+footer {
+  padding-bottom: 5px;
+}
+.projectLink {
+  color:#4874f9;
+}
