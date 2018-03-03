@@ -29,3 +29,7 @@ p {
 .w3-bar {
   position: fixed;
 }
+.aboutDesc {
+  margin-left: 25%;
+  margin-right: 25%;
+}
