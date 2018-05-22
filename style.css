@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Prosto+One');
+
+body{
+    background-color:midnightblue;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Prosto One', cursive;
+    font-size: 1000%;
+    padding: 10%;
+}
