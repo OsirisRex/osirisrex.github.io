@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Gudea|Nova+Round|Nova+Slim');
+
+body{
+    background-image: url("images/stars.jpg");
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color:white;
+    text-align: center;
+    font-family: 'Nova Round', cursive;
+    font-size: 1000%;
+    font-size:10vw;
+    padding: 10%;
+    margin-bottom: 11%;
+}
+.text1 {
+    background-color:#4f4156;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text2{
+    background-color:#5a516b;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Nova Slim', cursive;
+    color:ghostwhite;
+}
+p{
+    font-family: 'Gudea', sans-serif;
+    color:white;
+}

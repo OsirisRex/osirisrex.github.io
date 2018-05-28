@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Plaster');
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    background-image: url("images/crate.jpg");
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color:#ffd21e;
+    text-align: center;
+    font-family: 'Plaster', cursive;
+    font-size: 1000%;
+    font-size:10vw;
+    padding: 10%;
+    margin-bottom: 10%;
+}
+.text1 {
+    background-color:#212121;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text2{
+    background-color:#111111;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    color:#ffd21e;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: whitesmoke;
+}

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre:300|Barrio|Slackey');
+
+body{
+    background-image: url('images/winter.jpg');
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color:#edf7ff;
+    text-align: center;
+    font-family: 'Slackey', cursive;
+    font-size: 1000%;
+    font-size:10vw;
+    padding: 10%;
+    margin-bottom: 15%;
+}
+.text1 {
+    background-color:#b8ddf9;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.text2{
+    background-color:#afd3f7;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h2{
+    text-align: center;
+    font-family: 'Barrio', cursive;
+    color:#1ea9c9;
+}
+p{
+    font-family: 'Averia Serif Libre', cursive;
+}
